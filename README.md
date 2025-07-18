@@ -90,22 +90,22 @@ python app.py
 ---
 ✅ Requirements
 
-Python 3.7+
-TensorFlow
-Flask
-OpenCV
-NumPy
-Pillow
-scikit-learn
+* Python 3.7+
+* TensorFlow
+* Flask
+* OpenCV
+* NumPy
+* Pillow
+* scikit-learn
 ---
 📌 Notes
 
-Ensure fabric_pattern_model.h5 is present before running app.py.
-The templates/ folder must contain index.html and result.html for the web interface to function.
+* Ensure fabric_pattern_model.h5 is present before running app.py.
+* The templates/ folder must contain index.html and result.html for the web interface to function.
 ---
 🧵 Author
 
-Project: Pattern Sense
-Task: Classifying fabric patterns using Deep Learning
-Interface: Built with Flask
+* Project: Pattern Sense
+* Task: Classifying fabric patterns using Deep Learning
+* Interface: Built with Flask
 ---
