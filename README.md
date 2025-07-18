@@ -1,7 +1,13 @@
 <h1 align="center">🧵 Pattern Sense: Classifying Fabric Patterns Using Deep Learning</h1>
 
 ## 📥 Clone or Download the Project
-This project classifies fabric patterns such as floral, striped, checked, plain, and geometric using a Convolutional Neural Network (CNN) and provides a web interface for prediction using Flask.
+This project classifies fabric patterns such as 
+* floral
+* striped
+* checked
+* plain
+* geometric
+   using a Convolutional Neural Network (CNN) and provides a web interface for prediction using Flask.
 ---
 ## 📁 Project Structure
 
