@@ -6,8 +6,8 @@ This project classifies fabric patterns such as
 * striped
 * checked
 * plain
-* geometric
-* using a Convolutional Neural Network (CNN) and provides a web interface for prediction using Flask.
+* geometric **
+using a Convolutional Neural Network (CNN) and provides a web interface for prediction using Flask.
 ---
 ## 📁 Project Structure
 
