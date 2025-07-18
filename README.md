@@ -85,8 +85,8 @@ python app.py
 ---
 🖼️ Web App Usage
 
-Upload a fabric image via the UI.
-The model will predict the pattern class and display the result.
+* Upload a fabric image via the UI.
+* The model will predict the pattern class and display the result.
 ---
 ✅ Requirements
 
