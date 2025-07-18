@@ -42,6 +42,7 @@ source venv/bin/activate  # For macOS/Linux
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 ## 📊 Dataset Preparation
 
@@ -73,9 +74,3 @@ python TrainCNN.py
 
 ---
 
-### ✅ What to Do:
-- Copy the above Markdown into your `README.md` file.
-- Adjust file paths if needed.
-- Save and push it to GitHub — it will render beautifully!
-
-Would you like me to help compile your full README with everything combined?
