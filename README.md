@@ -74,3 +74,38 @@ python TrainCNN.py
 
 ---
 
+## 🌐 Launch the Web App
+
+Start the Flask web application using:
+
+```bash
+python app.py
+```
+### Then visit: http://127.0.0.1:5000/ in your browser to use the app.
+---
+🖼️ Web App Usage
+
+Upload a fabric image via the UI.
+The model will predict the pattern class and display the result.
+---
+✅ Requirements
+
+Python 3.7+
+TensorFlow
+Flask
+OpenCV
+NumPy
+Pillow
+scikit-learn
+---
+📌 Notes
+
+Ensure fabric_pattern_model.h5 is present before running app.py.
+The templates/ folder must contain index.html and result.html for the web interface to function.
+---
+🧵 Author
+
+Project: Pattern Sense
+Task: Classifying fabric patterns using Deep Learning
+Interface: Built with Flask
+---
