@@ -1,6 +1,7 @@
 <h1 align="center">🧵 Pattern Sense: Classifying Fabric Patterns Using Deep Learning</h1>
 
 ## 📥 Clone or Download the Project
+
 This project classifies fabric patterns such as 
 * floral
 * striped
