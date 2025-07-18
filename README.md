@@ -1,5 +1,5 @@
-##🧵 Pattern Sense: Classifying Fabric Patterns Using Deep Learning
-
+##**🧵 Pattern Sense: Classifying Fabric Patterns Using Deep Learning
+**
 ## 📁 Project Structure
 
 ```plaintext
